@@ -1,0 +1,1 @@
+Scripts to switch between light and dark mode for GNOME. Created to be used with [darkman](https://gitlab.com/WhyNotHugo/darkman)
